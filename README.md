@@ -36,3 +36,22 @@ Follow these instructions to get a copy of the project up and running on your lo
 
   ```sh
   npm install -g expo-cli
+
+### Installation
+
+- Clone the repository:
+
+  ```sh
+  git clone https://github.com/your-username/expense-tracker.git
+- Navigate to the project directory:
+
+  ```sh
+  cd expense-tracker
+- Install the dependencies:
+
+  ```sh
+  npm install
+- Start the Expo development server:
+
+  ```sh
+  npx expo start

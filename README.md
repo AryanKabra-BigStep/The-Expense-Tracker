@@ -9,9 +9,7 @@ Welcome to the Expense Tracker project! This is a personal project to learn and 
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -55,3 +53,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
   ```sh
   npx expo start
+
+  ## Contributing
+
+Contributions are welcome! Please fork the repository and create a pull request with your changes. Make sure to follow the coding guidelines and write appropriate tests for your changes.

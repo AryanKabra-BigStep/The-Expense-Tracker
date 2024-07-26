@@ -54,6 +54,7 @@ Follow these instructions to get a copy of the project up and running on your lo
   ```sh
   npx expo start
 
-  ## Contributing
+### Contributing
 
-Contributions are welcome! Please fork the repository and create a pull request with your changes. Make sure to follow the coding guidelines and write appropriate tests for your changes.
+   Contributions are welcome! Please fork the repository and create a pull request with your changes. Make sure to follow the coding guidelines and write appropriate tests for 
+   your changes.
